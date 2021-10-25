@@ -56,7 +56,7 @@ while True:
 						message = 'ER-03'
 					else:
 						aux=False
-						print(agin[4:9])
+						
 						for i in range(0,len(idak)):
 
 							if(idak[i]==agin[4:9]):
